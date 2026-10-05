@@ -1,0 +1,61 @@
+instagram:
+  username: "your_username"
+  password: "your_password"
+  target_accounts:
+    - "zero2sudo"
+
+profile:
+  # Personal Information
+  first_name: ""
+  last_name: ""
+  email: ""
+  phone: ""
+  address:
+    street: ""
+    city: ""
+    state: ""
+    zip: ""
+    country: "United States"
+
+  # Professional Links
+  linkedin: ""
+  github: ""
+  portfolio: ""
+
+  # Documents
+  resume_path: "data/resumes/resume.pdf"
+  cover_letter_path: "data/resumes/cover_letter.pdf"  # Optional
+
+  # Work Authorization
+  authorized_to_work: true
+  requires_sponsorship: false
+  citizenship: "US Citizen"  # or "Permanent Resident", "Visa Holder", etc.
+
+  # EEOC Questions (optional, for auto-fill)
+  veteran_status: "I am not a protected veteran"
+  disability_status: "I don't wish to answer"
+
+  # Education
+  education:
+    - school: ""
+      degree: "Bachelor of Science"
+      major: ""
+      graduation_date: "2028-05"
+      gpa: ""
+
+  # Work Experience
+  experience:
+    - company: ""
+      title: ""
+      start_date: ""
+      end_date: ""
+      description: ""
+
+  # Skills
+  skills:
+    - "Python"
+    - "JavaScript"
+
+settings:
+  check_interval_minutes: 30
+  auto_submit: false  # Always require manual review

@@ -1,0 +1,19 @@
+# Internship Auto-Apply Tool Dependencies
+
+# Instagram story access
+instaloader>=4.10
+
+# Browser automation for form filling
+playwright>=1.40
+
+# Configuration
+pyyaml>=6.0
+
+# HTTP requests for link resolution
+requests>=2.31
+
+# CLI interface
+click>=8.1
+
+# AI reasoning for complex forms
+anthropic>=0.39

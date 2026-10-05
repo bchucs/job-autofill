@@ -1,0 +1,98 @@
+{
+  "first_name": "Boris",
+  "last_name": "Chu",
+  "email": "bc724@cornell.edu",
+  "phone": "404-326-5928",
+  "phone_country_code": "+1",
+  "address": {
+    "street": "920 Blackmar Way",
+    "city": "Suwanee",
+    "state": "Georgia",
+    "zip": "30024",
+    "country": "United States"
+  },
+  "linkedin": "https://www.linkedin.com/in/borislchu",
+  "github": "https://github.com/bchucs",
+  "portfolio": "",
+  "resume_path": "/Users/bchu/Downloads/boris_chu_resume.pdf",
+  "cover_letter_path": "data/resumes/cover_letter.pdf",
+  "authorized_to_work": true,
+  "requires_sponsorship": false,
+  "citizenship": "US Citizen",
+  "gender": "Male",
+  "race_ethnicity": "Asian",
+  "veteran_status": "I am not a protected veteran",
+  "disability_status": "I don't wish to answer",
+  "high_school": {
+    "name": "",
+    "graduation": "2024"
+  },
+  "test_scores": {
+    "sat": "",
+    "act": "35"
+  },
+  "interview_code_of_conduct": "I agree",
+  "privacy_statement": "I agree",
+  "pursuing_further_education": "I am considering",
+  "applied_before": false,
+  "other_offers": false,
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Science",
+      "major": "Computer Science",
+      "start_date": "2024-08",
+      "graduation_date": "2028-05-22",
+      "gpa": "3.6"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Johnson & Johnson Innovative Medicine",
+      "title": "Software Engineering Intern, Applied AI",
+      "start_date": "2026-05",
+      "end_date": "2026-08",
+      "location": "Titusville, NJ",
+      "description": "* Architected evaluation harness with config YAML strategies to A/B test LLMs & prompts in claim verification\n* Improved fix accuracy from 73% to 96% through numeric override & prompt tuning; decreased inference cost by 5x\n* Deployed LLM application to EKS with Helm charts, Jenkins CI/CD, & persistent storage for stateful QC workflows\n* Led discovery with subject-matter experts, mapping source docs to monograph sections as a template for LLM drafting\n"
+    },
+    {
+      "company": "Cornell University Unmanned Air Systems",
+      "title": "Imaging Systems Engineer",
+      "start_date": "2025-11",
+      "end_date": "Present",
+      "location": "Ithaca, NY",
+      "description": "* Developed telemetry-driven capture to gate imaging on search-area entry, excluding off-mission frames in inference\n* Built multi-threaded C++ avoidance pipeline ingesting SPI LiDAR packets (120m range) for threat analysis\n* Re-derived geolocation tagging logic following camera migration, validating <8m spatial accuracy across test flights\n* Designed ERP interface with React & Prisma backed by relational schema for manufacturing inventory tracking\n"
+    },
+    {
+      "company": "InpharmD (YC W21)",
+      "title": "Software Engineering Intern, Applied AI",
+      "start_date": "2024-09",
+      "end_date": "2025-01",
+      "location": "Atlanta, GA",
+      "description": "* Architected embedding pipeline distributing 1.4M PDFs to containerized workers, cutting processing time by 80%\n* Tuned IVF indexing for retrieval, cutting top-k query latency by 90% while preserving recall on evaluation queries\n* Drove Agile architectural decisions focusing on scalability, accuracy, & latency during weekly sprints\n"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Java",
+    "TypeScript",
+    "SQL",
+    "OCaml",
+    "C++",
+    "HTML/CSS",
+    "Bash",
+    "PyTorch",
+    "scikit-learn",
+    "LLM Evaluation",
+    "Transformers",
+    "RAG",
+    "Vector Search",
+    "Spring Boot",
+    "React",
+    "Node.js",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Git"
+  ]
+}
